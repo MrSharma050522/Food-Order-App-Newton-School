@@ -5,7 +5,15 @@
   margin: auto;
   margin-top: -10rem;
   position: relative;
-  background-color: #383838;
+  /* background-color: #383838; */
+  background-image: linear-gradient(
+    to right top,
+    #050537,
+    #2d1a68,
+    #632598,
+    #a327c5,
+    #eb12eb
+  );
   color: white;
   border-radius: 14px;
   padding: 1rem;

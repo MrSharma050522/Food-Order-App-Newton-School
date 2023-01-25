@@ -3,4 +3,19 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
   border-radius: 14px;
   background-color: white;
+  background-image: linear-gradient(
+    to right top,
+    #6bd16b,
+    #00c8a4,
+    #00b8e2,
+    #009fff,
+    #0078ff,
+    #0077ff,
+    #0076ff,
+    #0075ff,
+    #00a0ff,
+    #00c3ff,
+    #00e1ff,
+    #5ffbf1
+  );
 }

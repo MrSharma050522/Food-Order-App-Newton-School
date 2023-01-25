@@ -17,6 +17,7 @@
 .control input {
   font: inherit;
   border: 1px solid #ccc;
+  background-color: #00c2ff;
   border-radius: 4px;
   width: 20rem;
   max-width: 100%;
@@ -30,7 +31,7 @@
 
 .actions button {
   font: inherit;
-  color: #5a1a01;
+  color: black;
   cursor: pointer;
   background-color: transparent;
   border: none;
@@ -40,18 +41,18 @@
 
 .actions button:hover,
 .actions button:active {
-  background-color: #ffe6dc;
+  background-color: #0065ff;
 }
 
 .actions .submit {
-  border: 1px solid #5a1a01;
-  background-color: #5a1a01;
+  border: 1px solid #0065ff;
+  background-color: #0065ff;
   color: white;
 }
 
 .actions .submit:hover,
 .actions .submit:active {
-  background-color: #7a2706;
+  background-color: #630dee;
 }
 
 .invalid label {
