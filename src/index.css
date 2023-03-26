@@ -10,8 +10,8 @@ html {
 
 body {
   margin: 0;
-  /* background-color: #3f3f3f; */
-  background-image: linear-gradient(
+  background-color: #3f3f3f;
+  /* background-image: linear-gradient(
     to right,
     #0712f0,
     #6900ed,
@@ -25,7 +25,7 @@ body {
     #9501ed,
     #6a11f2,
     #091ef6
-  );
+  ); */
 }
 
 ::-webkit-scrollbar {

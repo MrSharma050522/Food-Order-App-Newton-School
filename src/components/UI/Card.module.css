@@ -3,7 +3,7 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
   border-radius: 14px;
   background-color: white;
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     to right top,
     #6bd16b,
     #00c8a4,
@@ -17,5 +17,5 @@
     #00c3ff,
     #00e1ff,
     #5ffbf1
-  );
+  ); */
 }
